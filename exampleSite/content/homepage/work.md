@@ -1,8 +1,8 @@
 ---
-title: 'We Help Business Grow'
+title: 'We Fulfill Your Interior Dreams'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+background: 'images/reno.jpg'
+button: 'Portfolio'
 buttonLink: 'work'
 ---
 
