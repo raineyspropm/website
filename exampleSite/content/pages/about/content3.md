@@ -8,4 +8,4 @@ button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+I am passionate about lending a helping hand to those in need. I volunteer my time to help those in need as a labor of love. If you'd like to know more about this, please reach out.
