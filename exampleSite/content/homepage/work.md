@@ -6,4 +6,4 @@ button: 'Portfolio'
 buttonLink: 'work'
 ---
 
-Lorem Testing testing
+Testing testing
