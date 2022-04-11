@@ -1,7 +1,7 @@
 ---
 title: 'Renovation & New Installations'
 date: 2018-11-28T15:14:54+10:00
-icon: 'services/service-icon-5.png'
+icon: ''
 featured: true
 draft: false
 heroHeading: 'Renovation & New Installations'
