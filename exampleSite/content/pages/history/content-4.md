@@ -1,6 +1,7 @@
-title: 'Testimonial 4'
+---
+title: 'Testimonial 3'
 date: 2018-12-06T09:29:16+10:00
-weight: 4
+weight: 3
 background: 'images/paper.jpg'
 align: left
 ---
