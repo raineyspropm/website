@@ -8,4 +8,3 @@ align: right
 
 "I have known Andy Rainey, owner of Rainey's Property Management. LLC, for many years and have used him multiple times for repairs around my home. This company does excellent work at a reasonable price and leaves the property looking clean and neat when finished. He is honest and trustworthy. I look forward to using him again in the near future." - Esther L., Lebanon, OH
 
-"Andy did work for us a few months ago, and did a wonderful job! He stayed on schedule, and was very reasonable priced. We are very happy with the job, and would recommend him to anyone!" - Angie T., Lebanon, OH
