@@ -38,8 +38,8 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
+    name = "Portfolio"
+    url = "/Portfolio/"
     weight = 2
 
 [[menu.main]]
@@ -48,8 +48,8 @@ theme = "hugo-hero-theme"
     weight = 3
 
 [[menu.main]]
-    name = "History"
-    url = "/history/"
+    name = "Testimonials"
+    url = "/Testimonials/"
     weight = 3
 
 [[menu.main]]
