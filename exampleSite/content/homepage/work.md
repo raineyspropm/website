@@ -1,9 +1,9 @@
 ---
 title: 'We Fulfill Your Interior Dreams'
 weight: 1
-background: 'images/reno.jpg'
+background: 'images/tile.jpg'
 button: 'Portfolio'
 buttonLink: 'work'
 ---
 
-Testing testing
+We've decades of experience in delivery high quality renovation services. Please take a look at some of our past works.
