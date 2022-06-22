@@ -8,4 +8,6 @@ draft: false
 
 {{< content-strip-left "/pages/history" "content1" >}}
 {{< content-strip-right "/pages/history" "content2" >}}
+{{< content-strip-left "/pages/history" "content-4" >}}
+{{< content-strip-right "/pages/history" "content-5" >}}
 {{< content-strip-center "/pages/history" "content3" >}}
