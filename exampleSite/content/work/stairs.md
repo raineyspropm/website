@@ -11,4 +11,4 @@ images: ['work/stairs/1.jpg',
 'work/stairs/2.jpg','work/stairs/3.jpg','work/stairs/4.jpg','work/stairs/5.jpg','work/stairs/6.jpg']
 ---
 
-Built the staircase railing. Painted and stained the steps.
+Built and installed the railing. Painted and stained the steps.
