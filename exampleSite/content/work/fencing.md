@@ -2,7 +2,7 @@
 title: 'Fencing'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 11
+weight: 17
 heroHeading: 'Fencing'
 heroSubHeading: ''
 heroBackground: 'work/fencing/5.jpg'
