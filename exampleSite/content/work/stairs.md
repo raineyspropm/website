@@ -2,7 +2,7 @@
 title: 'Staircase'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 1
+weight: 5
 heroHeading: 'Staircase'
 heroSubHeading: 'Built the railing, stained and painted the steps.'
 heroBackground: 'work/stairs/6.jpg'
