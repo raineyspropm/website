@@ -2,7 +2,7 @@
 title: 'Cage'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 13
+weight: 11
 heroHeading: 'Barn Door Cage'
 heroSubHeading: ''
 heroBackground: 'work/cage/5.jpg'
