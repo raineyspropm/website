@@ -2,7 +2,7 @@
 title: 'Backsplash'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 5
+weight: 6
 heroHeading: 'Backsplash'
 heroSubHeading: ''
 heroBackground: 'work/backsplash/6.jpg'
