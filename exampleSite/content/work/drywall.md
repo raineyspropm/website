@@ -11,4 +11,4 @@ images: ['work/drywall/1.jpg',
 'work/drywall/2.jpg','work/drywall/3.jpg','work/drywall/4.jpg','work/drywall/5.jpg','work/drywall/6.jpg']
 ---
 
-Restored drywall with extensive damage from termites.    
+Restored drywall with holes and extensive damage from termites.    
