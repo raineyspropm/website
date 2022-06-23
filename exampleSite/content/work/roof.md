@@ -2,7 +2,7 @@
 title: 'Roof'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 12
+weight: 10
 heroHeading: 'Small Roof Repair'
 heroSubHeading: ''
 heroBackground: 'work/roof/2.jpg'
