@@ -11,4 +11,4 @@ images: ['work/backsplash/1.jpg',
 'work/backsplash/2.jpg','work/backsplash/3.jpg','work/backsplash/4.jpg','work/backsplash/5.jpg','work/backsplash/6.jpg']
 ---
 
-Installed a beautiful kitchen backsplash on the wall.
+Installed a beautiful kitchen backsplash on the wall.                                           
