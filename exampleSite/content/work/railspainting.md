@@ -11,4 +11,4 @@ images: ['work/railsp/1.jpg',
 'work/railsp/2.jpg','work/railsp/3.jpg']
 ---
 
-Re-painted old railing on a house's front porch to a crisp, revitalizing white.                                          
+Re-painted old railing on a houses front porch to a crisp, revitalizing white.                                          
