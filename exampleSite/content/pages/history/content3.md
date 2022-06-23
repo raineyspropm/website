@@ -7,4 +7,4 @@ align: right
 button: 'Contact Us'
 buttonLink: 'contact'
 ---
-If you would like to add a review or request to have work done please contact us.
+If you would like to add a review or talk about a project, please contact us.
