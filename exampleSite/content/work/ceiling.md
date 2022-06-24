@@ -2,7 +2,7 @@
 title: 'Ceiling Repair'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 22
+weight: 20
 heroHeading: 'Ceiling Repair'
 heroSubHeading: ''
 heroBackground: 'work/ceiling/4.jpg'
