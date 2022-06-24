@@ -2,7 +2,7 @@
 title: 'Bathroom Renovation'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 20
+weight: 22
 heroHeading: 'Bathroom Renovation'
 heroSubHeading: ''
 heroBackground: 'work/bathroom/2.jpg'
