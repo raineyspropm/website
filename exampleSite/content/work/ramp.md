@@ -11,4 +11,4 @@ images: ['work/ramp/1.jpg',
 'work/ramp/2.jpg','work/ramp/3.jpg','work/ramp/4.jpg','work/ramp/5.jpg','work/ramp/6.jpg']
 ---
 
-Built a new deck and installed a wheel chair ramp for accessibility.                                        
+Built a new deck and installed a wheel chair ramp for accessibility. The other side also has regular steps.                                       
