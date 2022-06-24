@@ -2,7 +2,7 @@
 title: 'New Door and Storm Door'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 24
+weight: 12
 heroHeading: 'New Door and Storm Door'
 heroSubHeading: ''
 heroBackground: 'work/door3/2.jpg'
