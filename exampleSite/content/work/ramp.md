@@ -2,7 +2,7 @@
 title: 'Ramp'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 12
+weight: 24
 heroHeading: 'Deck and Wheel Chair Ramp'
 heroSubHeading: ''
 heroBackground: 'work/ramp/6.jpg'
