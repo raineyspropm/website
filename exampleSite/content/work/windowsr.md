@@ -2,7 +2,7 @@
 title: 'Windows Repair'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 2
+weight: 23
 heroHeading: 'Windows Repair'
 heroSubHeading: ''
 heroBackground: 'work/windowsr/6.jpg'
