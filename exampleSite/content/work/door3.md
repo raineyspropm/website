@@ -6,7 +6,7 @@ weight: 24
 heroHeading: 'New Door and Storm Door'
 heroSubHeading: ''
 heroBackground: 'work/door3/2.jpg'
-thumbnail: 'work/door3/1.jpg'
+thumbnail: 'work/door3/2.jpg'
 images: ['work/door3/1.jpg', 
 'work/door3/2.jpg']
 ---
