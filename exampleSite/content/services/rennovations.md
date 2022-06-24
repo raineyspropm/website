@@ -1,11 +1,11 @@
 ---
-title: 'Rennovations and New Installations'
+title: 'Rennovations & New Installations'
 date: 2018-11-18T12:33:46+10:00
 icon: ''
 draft: false
 featured: true
 weight: 6
-heroHeading: 'Rennovations and New Installations'
+heroHeading: 'Rennovations & New Installs'
 heroSubHeading: ''
 heroBackground: 'services/reno.jpg'
 ---
