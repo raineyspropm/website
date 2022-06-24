@@ -7,7 +7,7 @@ weight: 1
 draft: false
 heroHeading: 'Painting & Staining'
 heroSubHeading: ''
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/reno.jpg'
 ---
 
 A wide variety of painting services are offered. These include interior painting, external painting, fencing/railing painting, and steps painting. 
