@@ -11,4 +11,4 @@ images: ['work/cage/1.jpg',
 'work/cage/2.jpg','work/cage/3.jpg','work/cage/4.jpg','work/cage/5.jpg','work/cage/6.jpg']
 ---
 
-Created a cage with a sliding barn door to hold a medium sized dog.                                     
+Created a custom cage with a sliding barn door to hold a medium sized dog.                                     
