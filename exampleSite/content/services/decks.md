@@ -1,11 +1,11 @@
 ---
-title: 'Decks and Railing'
+title: 'Decks & Railing'
 date: 2018-11-18T12:33:46+10:00
 icon: ''
 draft: false
 featured: true
 weight: 5
-heroHeading: 'Decks and Railing'
+heroHeading: 'Decks & Railing'
 heroSubHeading: ''
 heroBackground: 'services/reno.jpg'
 ---
