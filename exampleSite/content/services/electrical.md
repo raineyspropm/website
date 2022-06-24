@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 icon: ''
 draft: false
 featured: true
-weight: 5
+weight: 6
 heroHeading: 'Electrical Repair'
 heroSubHeading: ''
 heroBackground: 'services/reno.jpg'
