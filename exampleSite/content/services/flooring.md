@@ -7,7 +7,7 @@ weight: 2
 draft: false
 heroHeading: 'Flooring'
 heroSubHeading: ''
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/reno.jpg'
 ---
 
 We ensure that you have high quality flooring. The most common mistake when it comes to floor installation is an unprepared surface for your flooring to lay on. 
