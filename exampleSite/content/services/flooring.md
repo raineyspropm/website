@@ -18,6 +18,5 @@ We offer installations of all floor types, including but not limited to:
 - Wood
 - Vinyl
 - Linoleum
-- Concrete
 - Stone
 - Tile and Grout
