@@ -11,4 +11,4 @@ images: ['work/sump/1.jpg',
 'work/sump/2.jpg','work/sump/3.jpg','work/sump/4.jpg','work/sump/5.jpg','work/sump/6.jpg']
 ---
 
-Repaired a broken sump pump to keep the house's foundation clear of water.    
+Repaired a broken sump pump to keep the houses foundation clear of water.    
