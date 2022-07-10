@@ -8,7 +8,7 @@ heroSubHeading: ''
 heroBackground: 'work/door2/6.jpg'
 thumbnail: 'work/door2/6.jpg'
 images: ['work/door2/1.jpg', 
-'work/door2/2.jpg','work/door2/3.jpg','work/door2/4.jpg','work/door2/5.jpg','work/door2/6.jpg']
+'work/door2/2.jpg','work/door2/3.jpg','work/door2/4.jpg','work/door2/5.jpg','work/door2/6.jpg', 'work/door2/7.jpg', 'work/door2/8.jpg', 'work/door2/9.jpg']
 ---
 
-Installed a new door, removed an old window, and repaired damaged bricks around the door.
+Installed a new door, removed an old window, and repaired damaged bricks around the door. Replaced the back door, and the garage door going into the house.
