@@ -2,7 +2,7 @@
 title: 'Door'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 6
+weight: 20
 heroHeading: 'Door'
 heroSubHeading: ''
 heroBackground: 'work/door/6.jpg'
