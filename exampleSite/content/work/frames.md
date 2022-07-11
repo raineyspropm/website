@@ -5,8 +5,8 @@ draft: false
 weight: 23
 heroHeading: 'Picture Frames'
 heroSubHeading: ''
-heroBackground: 'work/frames/4.jpg'
-thumbnail: 'work/frames/4.jpg'
+heroBackground: 'work/frames/1.jpg'
+thumbnail: 'work/frames/1.jpg'
 images: ['work/frames/1.jpg', 
 'work/frames/2.jpg', 'work/frames/3.jpg', 'work/frames/4.jpg']
 ---
