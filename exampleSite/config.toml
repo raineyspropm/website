@@ -22,12 +22,12 @@ theme = "hugo-hero-theme"
     alt = "Raineys Property Management"
 
   [params.homepage_meta_tags]
-    meta_description = "A website to describe the work of Raineys Propertymangement and showcase past jobs in the housing renovation industry."
+    meta_description = "Raienys Property Management is a business specializing in home rennovations and servering the greater Lebanon, OH area. With decades of experience we are commited to turning your house into your dream house."
     meta_og_title = "Raineys Property Management"
     meta_og_type = "website"
-    meta_og_url = "https://www.raineyspropertymanagement.com/"
+    meta_og_url = "https://raineyspropertymanagement.com/"
     meta_og_image = "https://scontent-ort2-2.xx.fbcdn.net/v/t1.6435-9/101246079_105501567856053_1425354329618907136_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=hNiD3KBHniQAX88V5wt&_nc_ht=scontent-ort2-2.xx&oh=00_AT_zLcnKYYkU1cYtBAge8aVXODbjV45MA6L-LNjk9W1u4w&oe=62DB22D9"
-    meta_og_description = "A website to describe the work of Raineys Propertymangement and showcase past jobs in the housing renovation industry."
+    meta_og_description = "Raienys Property Management is a business specializing in home rennovations and servering the greater Lebanon, OH area. With decades of experience we are commited to turning your house into your dream house."
 
 [[menu.main]]
 	name = "Services"
