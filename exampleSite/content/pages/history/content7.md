@@ -1,8 +1,8 @@
 ---
-title: 'Testimonial 6'
+title: 'Testimonial 7'
 weight: 7
 date: 2018-12-06T09:29:16+10:00
-background: 'images/drywall.jpg'
+background: 'images/paper.jpg'
 align: right
 ---
 
