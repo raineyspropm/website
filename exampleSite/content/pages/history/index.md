@@ -8,8 +8,9 @@ draft: false
 
 {{< content-strip-left "/pages/history" "content1" >}}
 {{< content-strip-right "/pages/history" "content2" >}}
-{{< content-strip-left "/pages/history" "content-4" >}}
-{{< content-strip-right "/pages/history" "content-5" >}}
-{{< content-strip-left "/pages/history" "content6" >}}
-{{< content-strip-right "/pages/history" "content7" >}}
-{{< content-strip-center "/pages/history" "content3" >}}
+{{< content-strip-left "/pages/history" "content3" >}}
+{{< content-strip-right "/pages/history" "content4" >}}
+{{< content-strip-left "/pages/history" "content5" >}}
+{{< content-strip-right "/pages/history" "content6" >}}
+{{< content-strip-left "/pages/history" "content7" >}}
+{{< content-strip-center "/pages/history" "giving" >}}
